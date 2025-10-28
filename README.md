@@ -14,7 +14,7 @@ I’m passionate about building scalable software and exploring how AI can autom
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel50&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/rudrapatel05/">
+<a href="https://www.linkedin.com/in/rudrapatel05/" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 
