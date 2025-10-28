@@ -12,7 +12,7 @@ I’m passionate about building scalable software and exploring how AI can autom
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rudrapatel50&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=rudrapatel50&theme=nightowl&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel50&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel50&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Connect with me:
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/rudrapatel05/)
